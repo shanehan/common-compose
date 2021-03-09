@@ -7,6 +7,10 @@
     <artifactId>common-compose</artifactId>
     <version>0.1.0</version>
 
+    <name>common-compose</name>
+    <description>对象组装工具</description>
+    <url>https://github.com/shanehan/common-compose</url>
+
 
     <licenses>
         <license>
